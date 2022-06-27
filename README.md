@@ -3,6 +3,8 @@ A simple discord bot written in discord.js
 
 # How to use?
 All the instructions for instalation are commented in the code of the bot, including recomended changes.
+Remember to change the process.env file with the bot token.
+Also set up a repl.it for uptime.
 
 # Why to download it?
 It is a fun and pretty complete bot, it is also fully documented. You only need to check discord's developers portal to upload it.
