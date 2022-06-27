@@ -3,6 +3,8 @@
 
 //Please do not touch this, may break the code
 const { Client, Intents } = require('discord.js');
+const fetch = require("node-fetch")
+const Database = require("@replit/database")
 const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES] });
 //Require the config file
 const config = require("./config.json");
