@@ -347,4 +347,4 @@ if (message.content == "!announce") {
 //For the token backup, save a file with it in your device at an encrypted/password locked folder or write it at a paper
 
 //Your bot token goes here :D
-client.login('');
+client.login(process.env.TOKEN);
