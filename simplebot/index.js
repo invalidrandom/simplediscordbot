@@ -9,6 +9,8 @@ const config = require("./config.json");
 //Require the commands file
 const moment = require("moment");
 moment.locale("en-gb")
+//Server keep alive function
+const keepAlive = require("./server")
 //Fun time start here, all the code is documented
 
 //Message when bot start
