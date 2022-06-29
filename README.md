@@ -9,7 +9,7 @@ Here is a full tutorial on how to build and set up your bot: https://www.freecod
 I hope you like it!!
 
 # Why to download it?
-It is a fun and pretty complete bot, it is also fully documented. You only need to check discord's developers portal to upload it.
+It is a fun and pretty complete bot, it is also fully documented. You only need to check discord's developers portal to upload it. Beta testing recommended 
 
 # Features
 - Announce command
